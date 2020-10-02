@@ -1,2 +1,4 @@
-txt = "Hello World"[::-1]
-print(txt)
+txtname = "Kanchana"[::-1]
+txtage = "22"[::-1]
+print(txtname)
+print(txtage)
